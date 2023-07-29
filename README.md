@@ -1,3 +1,3 @@
-# template THREE.JS
+# text curved
 
 npm i
